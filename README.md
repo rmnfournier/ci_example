@@ -1,4 +1,6 @@
 # OxRSE Continuous Integration course
+[![codecov](https://codecov.io/gh/rmnfournier/ci_example/branch/main/graph/badge.svg?token=OGV0M3BBGL)](https://codecov.io/gh/rmnfournier/ci_example)
+
 
 This project contains a small Python project. We are going to use free cloud services to automate:
 
